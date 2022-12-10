@@ -1,4 +1,4 @@
-![404 error](/rolling/rsschool-cv/photo.jpg)
+![404 error](/rsschool-cv/photo.jpg)
 # Klimenskiy
 **Stage 0**
 
