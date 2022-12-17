@@ -1,0 +1,33 @@
+body {
+    background-color: #e9dfdf;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+    
+    }
+
+.photo {
+    width: 200px;
+    border-radius: 50px;
+    box-shadow: 7px -4px 14px rgba(0, 0, 0, 1);
+}
+
+.info {
+    font-size: 20px;
+    
+   
+    
+}
+
+.container {
+    max-width: 850px;
+    margin:auto;
+}
+
+
+h3{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.logors{
+    border-radius: 20px;
+}
